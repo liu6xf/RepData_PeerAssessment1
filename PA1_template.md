@@ -114,6 +114,7 @@ abline(v = median_steps, lwd = 2, pch = 2, lty = 2, col = "yellow")
 
 ![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
+The daily mean steps is 9354.23 steps and the median daily is 10395 steps
 
 ## What is the average daily activity pattern?
 Get the average steps per interval and maximum steps.
@@ -201,6 +202,7 @@ abline(v = new_median_steps, lwd = 2, lty = 2, col = "yellow")
 
 ![](PA1_template_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
 
+The daily mean steps is 10766.19 steps and the median daily is 10766.19 steps.
 The mean and median of total steps are larger than in the first part. 
 
 ## Are there differences in activity patterns between weekdays and weekends?
